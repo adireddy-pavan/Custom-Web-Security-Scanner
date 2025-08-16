@@ -19,7 +19,7 @@ Ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Defensive-Alliance/web-security-scanner.git
+git clone https://github.com/adireddy-pavan/web-security-scanner.git
 cd web-security-scanner
 ```
 
