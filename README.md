@@ -90,9 +90,3 @@ pattern: [a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}
 
 We welcome contributions! If you find a bug, have a feature request, or want to improve the project, please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-This version provides a simple and clean overview of the scanner, explaining its functionality, how to use it, and how others can extend or contribute to it. Let me know if you need any more changes!
